@@ -1,4 +1,4 @@
-# Android Prework - *MyHello*
+# Lab #1 - *Clicker app*
 
 Submitted by: *Jaylen Santiago*
 
@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 * [x ] counter displayed on screen
 * [x ] Button displayed on screen
-* [x ] counts up when button is pressed
+* [x ] counts up by 1 when button is pressed
 
 The following **optional** features are implemented:
 
@@ -24,14 +24,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+https://github.com/J4Ysantiago/Lab1Clickme/blob/main/Click.gif
 
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+https://getkap.co
 
 ## Notes
 
